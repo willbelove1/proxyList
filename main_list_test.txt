@@ -1,1 +1,1 @@
-[ {"server": "77.232.38.193", "port": 443, "secret": "eeRighJJvXrFGRMCIMJdCQ"}, {"server": "87.229.100.253", "port": 443, "secret": "eeRighJJvXrFGRMCIMJdCQ"}, {"server": "proxy3.example.com", "port": 443, "secret": "your-mtproto-secret-3"} ]
+[ {"server": "77.232.38.193", "port": 443, "secret": "eeRighJJvXrFGRMCIMJdCQ"}, {"server": "87.229.100.253", "port": 443, "secret": "eeRighJJvXrFGRMCIMJdCQ"}, {"server": "87.229.100.235", "port": 7777, "secret": "eeRighJJvXrFGRMCIMJdCQ"} ]
